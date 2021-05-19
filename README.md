@@ -12,6 +12,7 @@
 - [Qiita](https://qiita.com/promitsu)
 - [note](https://note.com/promitsu)
 - [resume.id](https://www.resume.id/promitsu)
+- [YOUTRUST](https://youtrust.jp/users/hiromitsusasaki)
 
 [![](https://raw.githubusercontent.com/hiromitsusasaki/hiromitsusasaki/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
