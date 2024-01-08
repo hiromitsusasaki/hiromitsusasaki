@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/hiromitsusasaki/hiromitsusasaki/main/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
