@@ -1,7 +1,7 @@
 # Promitsu (hiromitsusasaki)
 
 地方在住、フルリモートで働く器用貧乏の中年プログラマ/個人開発者です。
-今はスタートアップでリードエンジニアをしています。
+今はスタートアップでテックリードをしています。
 
 I am a middle-aged programmer/individual developer living in rural Japan and working full remote. I am currently a lead engineer at an IT startup.
 
